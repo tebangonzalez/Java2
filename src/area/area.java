@@ -1,3 +1,5 @@
+package area;
+
 import javax.swing.JOptionPane;
 
 public class area {

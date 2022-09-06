@@ -1,3 +1,5 @@
+package area;
+
 public class areacuadrilatero {
     //Atributos
     private float lado1;
