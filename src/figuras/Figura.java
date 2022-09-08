@@ -2,6 +2,11 @@ package figuras;
 
 public abstract class Figura {
 
-    public abstract void calcularArea();
-    public abstract void calcularPerimetro();
+    public abstract double calcularArea();
+    public abstract double calcularPerimetro();
+
+    @Override
+    public String toString() {
+        return "Figura{}";
+    }
 }
